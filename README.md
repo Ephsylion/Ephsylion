@@ -6,8 +6,6 @@
 
  🌱 Изучаю **Django**
 
- 🤝 Поможешь с [Pyjango?](https://github.com/cd-con/Pyjango)
-
  📫 Пиши мне в ТГ: **@RustyTheCodeguy**
 </div>
 <div align="center">
