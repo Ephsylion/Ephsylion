@@ -1,5 +1,4 @@
 <h1 align="center">cd-con</h1>
-<h3 align="center">НН разработчик из Мухосранска</h3>
 <div align="center">
   
  🔭 Работаю над [GigaChat](https://github.com/cd-con/gigachat)
