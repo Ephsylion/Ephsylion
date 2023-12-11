@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 Working on [PointEditor](https://github.com/cd-con/PointEditor)<br><br> 🌱 Learning **Django**<br><br> 📫 Contact me: **@RustyTheCodeguy**
+ 🔭 Working on [PointEditor](https://github.com/cd-con/PointEditor)<br><br> 🌱 Learning **Django**<br><br> 📫 Contact me: **[@cd_con](https://t.me/cd_con)**
 
 
 # 💻 Tech Stack:
